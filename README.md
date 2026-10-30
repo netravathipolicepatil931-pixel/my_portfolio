@@ -35,4 +35,4 @@ Bachelor of Technology - Computer Science and Engineering in Artificial Intellig
 
 ## Contact details
 Email id - netravathipolicepatil931@gmail.com
-
+Linkdin - https://www.linkedin.com/in/netravathi-p-363467385/
