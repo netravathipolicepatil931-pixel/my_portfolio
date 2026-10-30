@@ -33,3 +33,6 @@ Bachelor of Technology - Computer Science and Engineering in Artificial Intellig
 -Learn more about AI
 -improve skills in python and web development
 
+## Contact details
+Email id - netravathipolicepatil931@gmail.com
+
